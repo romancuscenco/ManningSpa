@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\MyStuff\ManningSPA\SPA\bin\SPA.dll
+D:\VisualStudioProjects\MyStuff\ManningSPA\SPA\bin\SPA.pdb
+D:\VisualStudioProjects\MyStuff\ManningSPA\SPA\obj\Debug\SPA.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\MyStuff\ManningSPA\SPA\obj\Debug\SPA.dll
+D:\VisualStudioProjects\MyStuff\ManningSPA\SPA\obj\Debug\SPA.pdb
